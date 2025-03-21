@@ -1,0 +1,37 @@
+ASSIGNMENT
+Categorize the the list below into the following ,Supervised learning, Unsupervised learning, Reinforcement Learning 
+You should save the assignment in a GitHub repository
+
+identify the type 
+1.Email Spam Detection
+2.Netflix Movie Recommendations
+3.Self-Driving Cars
+4.Fraud Detection in Banking
+5.Customer Segmentation for Marketing
+6.Chess-Playing AI
+7.Face Recognition in Smartphones
+8.Grouping News Articles by Topic
+9.Teaching a Robot to Walk
+10.Diagnosing Diseases from X-Rays
+
+SOLUTION
+
+1.Email Spam Detection → Supervised Learning (Labeled emails as spam or not spam)
+
+2. Netflix Movie Recommendations → Unsupervised Learning -(Collaborative filtering, clustering user preferences)
+ 
+3. Self-Driving Cars → Reinforcement Learning (Agents learn to drive through rewards and penalties)
+
+4. Fraud Detection in Banking → Supervised Learning (Labeled transactions as fraudulent or not fraudulent)
+
+5. Customer Segmentation for Marketing → Unsupervised Learning (Clustering customers based on behavior)
+
+6. Chess-Playing AI → Reinforcement Learning (Learning best moves through trial and error)
+
+7. Face Recognition in Smartphones → Supervised Learning (Recognizing known faces based on labeled data)
+
+8. Grouping News Articles by Topic → Unsupervised Learning (Clustering similar articles without labeled categories)
+
+9. Teaching a Robot to Walk → Reinforcement Learning (Learning movement through rewards and penalties)
+
+10. Diagnosing Diseases from X-Rays → Supervised Learning (Classifying X-ray images into disease categories based on labeled data)
